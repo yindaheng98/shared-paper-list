@@ -13,3 +13,4 @@
 - [ ] (ACM TG 2023) 3D Gaussian Splatting for Real-Time Radiance Field Rendering
 - [x] (NSDI 22) YuZu: Neural-Enhanced Volumetric Video Streaming
 - [ ] (VR 2023) CaV3: Cache-assisted Viewport Adaptive Volumetric Video Streaming
+- [ ] (ImmerCom '23) Toward Next-generation Volumetric Video Streaming with Neural-based Content Representations
