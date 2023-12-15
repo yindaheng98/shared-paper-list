@@ -14,4 +14,4 @@
 - [x] (NSDI 22) **YuZu: Neural-Enhanced Volumetric Video Streaming**
 - [ ] (VR 2023) **CaV3: Cache-assisted Viewport Adaptive Volumetric Video Streaming**
 - [ ] (ImmerCom '23) **Toward Next-generation Volumetric Video Streaming with Neural-based Content Representations**
-      * model compression, rate adaptation with scalable neural networks, and viewport adaptation to alleviate bandwidth consumption
+  * model compression, rate adaptation with scalable neural networks, and viewport adaptation to alleviate bandwidth consumption
