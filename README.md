@@ -15,3 +15,4 @@
 - [ ] (VR 2023) **CaV3: Cache-assisted Viewport Adaptive Volumetric Video Streaming**
 - [ ] (ImmerCom '23) **Toward Next-generation Volumetric Video Streaming with Neural-based Content Representations**
   * model compression, rate adaptation with scalable neural networks, and viewport adaptation to alleviate bandwidth consumption
+  * 这里面的NeRF输入是坐标+时间，所以输出视频
