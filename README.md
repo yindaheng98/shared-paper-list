@@ -18,3 +18,5 @@
   * 这里面的NeRF输入是坐标+时间，所以输出视频
 - [ ] (arxiv) **4D Gaussian Splatting for Real-Time Dynamic Scene Rendering**
   * 3D Gaussian Splatting 视频，[视频演示](https://guanjunwu.github.io/4dgs/)
+- [ ] (arxiv) **SIFU: Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction**
+  * 模型设计，针对复杂衣物做优化
