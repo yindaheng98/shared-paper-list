@@ -16,3 +16,5 @@
 - [ ] (ImmerCom '23) **Toward Next-generation Volumetric Video Streaming with Neural-based Content Representations**
   * model compression, rate adaptation with scalable neural networks, and viewport adaptation to alleviate bandwidth consumption
   * 这里面的NeRF输入是坐标+时间，所以输出视频
+- [ ] (arxiv) **4D Gaussian Splatting for Real-Time Dynamic Scene Rendering**
+  * 3D Gaussian Splatting 视频，[视频演示](https://guanjunwu.github.io/4dgs/)
