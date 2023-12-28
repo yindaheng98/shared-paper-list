@@ -16,7 +16,8 @@
 - [ ] (ImmerCom '23) **Toward Next-generation Volumetric Video Streaming with Neural-based Content Representations**
   * model compression, rate adaptation with scalable neural networks, and viewport adaptation to alleviate bandwidth consumption
   * 这里面的NeRF输入是坐标+时间，所以输出视频
-- [ ] (arxiv) **4D Gaussian Splatting for Real-Time Dynamic Scene Rendering**
-  * 3D Gaussian Splatting 视频，[视频演示](https://guanjunwu.github.io/4dgs/)
+- [x] (arxiv) **4D Gaussian Splatting for Real-Time Dynamic Scene Rendering**
+  * 基于 3D Gaussian Splatting 动态场景，[视频演示](https://guanjunwu.github.io/4dgs/)
+  * Yin: 纯模型设计，用模型推断输出各时刻高斯点的位移，[Notes](https://yindaheng98.github.io/%E5%9B%BE%E5%BD%A2%E5%AD%A6/%E5%8A%A8%E6%80%81NeRF.html)
 - [ ] (arxiv) **SIFU: Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction**
   * 模型设计，针对复杂衣物做优化，[视频演示](https://river-zhang.github.io/SIFU-projectpage/)
