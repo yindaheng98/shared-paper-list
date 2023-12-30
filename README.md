@@ -19,5 +19,7 @@
 - [x] (arxiv) **4D Gaussian Splatting for Real-Time Dynamic Scene Rendering**
   * 基于 3D Gaussian Splatting 动态场景，[视频演示](https://guanjunwu.github.io/4dgs/)
   * Yin: 纯模型设计，用模型推断输出各时刻高斯点的位移，[Notes](https://yindaheng98.github.io/%E5%9B%BE%E5%BD%A2%E5%AD%A6/%E5%8A%A8%E6%80%81NeRF.html)
+- [ ] (arxiv) **Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting**
+  * 也叫4D Gaussian Splatting，但是和上面那篇没有半毛钱关系，不是蹩脚的模型设计而是真正的4D Gaussian Splatting
 - [ ] (arxiv) **SIFU: Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction**
   * 模型设计，针对复杂衣物做优化，[视频演示](https://river-zhang.github.io/SIFU-projectpage/)
